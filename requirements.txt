@@ -1,0 +1,11 @@
+tensorboardX
+opencv-python
+scikit-learn
+numpy
+tqdm
+matplotlib
+seaborn
+pandas
+pyyaml
+# pytorch 1.8.1
+# python 3.8

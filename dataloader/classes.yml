@@ -1,0 +1,10 @@
+class_names: [
+    'butterfly',
+    'lion',
+    'cat',
+    'dog',
+    'forest',
+    'monkey',
+    'rose',
+    'sunflower'
+]
