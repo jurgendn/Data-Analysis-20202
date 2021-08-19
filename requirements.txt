@@ -7,5 +7,7 @@ matplotlib
 seaborn
 pandas
 pyyaml
+pytorch-lightning
+pytorch-lightning-bolts
 # pytorch 1.8.1
 # python 3.8
